@@ -1,1 +1,3 @@
 1.git rebase i 合并多个commit
+2.合并从当前head到15f745b(commit id)
+git rebase -i 15f745b
